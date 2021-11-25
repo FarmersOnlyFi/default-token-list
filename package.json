@@ -1,32 +1,32 @@
 {
-  "name": "@venomswap/default-token-list",
-  "version": "2.1.0",
-  "description": "◦ The Venomswap default token list",
-  "main": "build/venomswap-default.tokenlist.json",
+  "name": "@foxswap/default-token-list",
+  "version": "2.1.2",
+  "description": "◦ The FoxSwap default token list",
+  "main": "build/foxswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/venomswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/foxswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/venomswap-default.tokenlist.json"
+    "build/foxswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VenomProtocol/venomswap-default-token-list.git"
+    "url": "git+https://github.com/FarmersOnlyFi/default-token-list.git"
   },
   "keywords": [
-    "venomswap",
+    "foxswap",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-default-token-list/issues"
+    "url": "https://github.com/FarmersOnlyFi/default-token-list/issues"
   },
-  "homepage": "https://github.com/VenomProtocol/venomswap-default-token-list#readme",
+  "homepage": "https://github.com/FarmersOnlyFi/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
