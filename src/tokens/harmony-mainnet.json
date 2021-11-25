@@ -17,6 +17,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+    "symbol": "FOX",
+    "name": "FOX Token",
+    "decimals": 18,
+    "logoURI": "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
     "symbol": "VIPER",
     "name": "Viper",
