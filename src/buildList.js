@@ -12,7 +12,7 @@ const harmonyTestnet = require("./tokens/harmony-testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Venomswap Default",
+    name: "FoxSwap Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -20,8 +20,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://dvwecb5klcqus.cloudfront.net/venomswap/logos/venomswap-128x128.png",
-    keywords: ["venomswap", "default"],
+    logoURI: "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png",
+    keywords: ["foxswap", "default"],
     tokens: [...bscMainnet, ...bscTestnet, ...harmonyMainnet, ...harmonyTestnet]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
