@@ -262,5 +262,45 @@
     "name": "Yin",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xE5d5768AE4f49878ABc290CcEbfB08BA2aD27aFD",
+    "symbol": "1ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x8219b99016D9A156e2Ed04B0f6d2c1b4F866EF66",
+    "symbol": "1USDC",
+    "name": "USD Coin",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x70DC166280753cEEC0AaA3307bC8707a23E774fE",
+    "symbol": "UST",
+    "name": "Wrapped UST Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UST.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
+    "symbol": "WONE",
+    "name": "Wrapped ONE",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/WONE.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x08C6830Daf7A290b37371ACf7ef40e5D6A29733c",
+    "symbol": "FOX",
+    "name": "FarmersOnly Token",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png"
   }
 ]
