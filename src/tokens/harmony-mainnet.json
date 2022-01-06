@@ -1,6 +1,14 @@
 [
   {
     "chainId": 1666600000,
+    "address": "0x02f667745A77C376Db5b232846D4b2454e533699",
+    "symbol": "xFOX",
+    "name": "Fox Governance Token",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
     "symbol": "1DAI",
     "name": "Dai Stablecoin",
