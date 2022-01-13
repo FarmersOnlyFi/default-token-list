@@ -5,7 +5,15 @@
     "symbol": "xFOX",
     "name": "Fox Governance Token",
     "decimals": 18,
-    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png"
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/xfox.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+    "symbol": "stONE",
+    "name": "Staked ONE",
+    "decimals": 18,
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/stone.png"
   },
   {
     "chainId": 1666600000,
