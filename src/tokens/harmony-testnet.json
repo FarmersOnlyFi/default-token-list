@@ -38,5 +38,37 @@
     "name": "OneChainlink",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x106B7F900B6feF3cAeD9d76428067F6377489Fda",
+    "symbol": "FOX",
+    "name": "FarmersOnly Token",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0x8f783a1DACADf6E9B887daf68aB07A0b9Bd8bA34",
+    "symbol": "UST",
+    "name": "Wrapped UST Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UST.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xe2ffd56281D10c2aDC679A1A5a466F4cC57f7EA7",
+    "symbol": "1ETH",
+    "name": "Ether",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ETH.png"
+  },
+  {
+    "chainId": 1666700000,
+    "address": "0xDB5D410244e7a7302eBb051B99a82116BF0D6c84",
+    "symbol": "1USDC",
+    "name": "USD Coin",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1USDC.png"
   }
 ]
