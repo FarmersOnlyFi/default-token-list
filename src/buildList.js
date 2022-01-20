@@ -20,7 +20,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FOX-Logo.png",
+    logoURI: "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/foxswap-circle_05.svg",
     keywords: ["foxswap", "default"],
     tokens: [...harmonyMainnet, ...harmonyTestnet]
       // sort them by symbol for easy readability
