@@ -262,5 +262,13 @@
     "name": "Yin",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf9565e8c4e13862f677f144b3cdc8700d9c4ba31",
+    "symbol": "HVILLE",
+    "name": "HarmonyVille",
+    "decimals": 18,
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/hville.png"
   }
 ]
