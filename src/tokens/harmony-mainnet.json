@@ -9,6 +9,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0xDA7fE71960cd1C19E1b86D6929efD36058F60a03",
+    "symbol": "LUMEN",
+    "name": "LUMEN",
+    "decimals": 18,
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/lumen.svg"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
     "symbol": "stONE",
     "name": "Staked ONE",
