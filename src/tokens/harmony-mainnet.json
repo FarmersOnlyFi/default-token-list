@@ -8,6 +8,13 @@
     "logoURI": "https://app.farmersonly.fi/assets/images/tokens/xfox.png"
   },
   {
+    "address": "0xC079d0385492Ac2D0e89ca079c186Dd71ef49B1e",
+    "symbol": "USE",
+    "name": "Useless",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/useless.png"
+  },
+  {
     "chainId": 1666600000,
     "address": "0xDA7fE71960cd1C19E1b86D6929efD36058F60a03",
     "symbol": "LUMEN",
