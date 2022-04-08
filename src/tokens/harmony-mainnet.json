@@ -8,6 +8,7 @@
     "logoURI": "https://app.farmersonly.fi/assets/images/tokens/xfox.png"
   },
   {
+    "chainId": 1666600000,
     "address": "0xC079d0385492Ac2D0e89ca079c186Dd71ef49B1e",
     "symbol": "USE",
     "name": "Useless",
