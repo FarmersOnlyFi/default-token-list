@@ -17,6 +17,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x5DCE7A3E8B53387A9Ee1cE0d855b7A8d948100A3",
+    "symbol": "GRAV",
+    "name": "Gravity",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xDA7fE71960cd1C19E1b86D6929efD36058F60a03",
     "symbol": "LUMEN",
     "name": "LUMEN",
