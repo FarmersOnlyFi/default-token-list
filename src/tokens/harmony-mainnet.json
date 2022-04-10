@@ -9,6 +9,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x0C2868befB66144a82eB7a48383082E28f8E34fb",
+    "symbol": "STARDUST",
+    "name": "STARDUST",
+    "decimals": 18,
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/stardust.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xC079d0385492Ac2D0e89ca079c186Dd71ef49B1e",
     "symbol": "USE",
     "name": "Useless",
