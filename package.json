@@ -1,6 +1,6 @@
 {
   "name": "@foxswap/default-token-list",
-  "version": "2.2.9",
+  "version": "2.3.0",
   "description": "◦ The FoxSwap default token list",
   "main": "build/foxswap-default.tokenlist.json",
   "scripts": {
