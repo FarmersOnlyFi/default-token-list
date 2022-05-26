@@ -9,6 +9,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x9d6cB12FD0b6a5E0bFF64004b9097F1dEAdCac7B",
+    "symbol": "1BULL",
+    "name": "Bullish",
+    "decimals": 18,
+    "logoURI": "https://app.farmersonly.fi/assets/images/tokens/1bull.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x1449Ab6C24Dcf3DbC1971021f465af1B81F48F07",
     "symbol": "OIL",
     "name": "Oil",
