@@ -33,9 +33,17 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x144BB9c88c4fC46cBfECD1Cad773D64DD3782c64",
+    "symbol": "SOUL",
+    "name": "Soul Token",
+    "decimals": 18,
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/soultoken.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x0C2868befB66144a82eB7a48383082E28f8E34fb",
     "symbol": "STARDUST",
-    "name": "STARDUST",
+    "name": "Stardust",
     "decimals": 18,
     "logoURI": "https://app.farmersonly.fi/assets/images/tokens/stardust.png"
   },
@@ -155,7 +163,7 @@
     "chainId": 1666600000,
     "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
     "symbol": "LINK",
-    "name": "ChainLink Token",
+    "name": "Chainlink Token",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LINK.png"
   },
@@ -189,7 +197,7 @@
     "symbol": "FOX",
     "name": "FarmersOnly Token",
     "decimals": 18,
-    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/foxswap-circle_05.svg"
+    "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/LogoMark/With+Padding/FoxSwap_Logomark_space_white.svg"
   },
   {
     "chainId": 1666600000,
